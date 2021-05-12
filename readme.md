@@ -6,7 +6,7 @@ docx2txt.zip
    
 1、docx_to_txt.zip 已移除，更名为 docx2txt.zip.
 	
-
+;
 
 docx2txt_v0.2
 
