@@ -1,6 +1,6 @@
 # 文本转换工具
 
-word格式转txt
+说明：word格式转txt
     
 ## docx2txt.zip    
    
