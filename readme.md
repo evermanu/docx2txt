@@ -8,6 +8,6 @@ docx2txt.zip
 	
 ;
 
-docx2txt_v0.2
+docx2txt_v0.2.zip
 
 1、支持doc/docx/odt三种格式的文档转换成txt
